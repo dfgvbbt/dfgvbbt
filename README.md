@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!
+![image](https://user-images.githubusercontent.com/101539486/191657769-3d9d63c3-8a08-430f-a2f3-617db819ce6a.png)
 
 <!--
 **dfgvbbt/dfgvbbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
